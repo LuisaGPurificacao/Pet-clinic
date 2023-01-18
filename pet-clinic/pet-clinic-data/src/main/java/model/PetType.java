@@ -1,4 +1,4 @@
-package br.com.guru.springframework.petclinic.model;
+package model;
 
 import lombok.Data;
 
